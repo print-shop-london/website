@@ -1071,3 +1071,7 @@ a.linkedin-small  { background:url('../images/icons/small-socials/linkedin.png')
 @media(min-width:768px){
  .top_phone { position: absolute; right: 0; font-size: 40px; top: 50px; }   
 }
+
+@media(max-width:768px){
+ .top_phone { display: block; text-align: center; padding: 10px; font-size: 20px; }   
+}
