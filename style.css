@@ -1066,3 +1066,7 @@ a.linkedin-small  { background:url('images/icons/small-socials/linkedin.png') no
 .right{float:right;}
 .nomargin{margin:0}
 .nopadding{padding:0}
+
+@media(min-width:768px){
+ .top_phone { position: absolute; right: 0; font-size: 40px; top: 50px; }   
+}
